@@ -1,4 +1,4 @@
-## Deployment For Each Applications
+## Deployment For Each Applications With PM2
 
 ### NET CORE App
 - Publish your app in folder, then locate the published folder in the same path of `ecosystem.config.js`
